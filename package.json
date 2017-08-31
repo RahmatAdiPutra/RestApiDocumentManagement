@@ -1,0 +1,26 @@
+{
+  "name": "dms",
+  "version": "1.0.0",
+  "description": "digunakan untuk membuat, mengedit, menghapus suatu document pada baciro gate",
+  "main": "app.js",
+  "dependencies": {
+    "apiclient": "^0.2.5",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-fileupload": "^0.1.4",
+    "formidable": "^1.1.1",
+    "getmac": "^1.2.1",
+    "md5": "^2.2.1",
+    "mysql": "^2.14.1",
+    "nodejs-md5": "^1.0.2",
+    "request-debug": "^0.2.0",
+    "x-date": "^1.0.2",
+    "yaml-config": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aman",
+  "license": "ISC"
+}
